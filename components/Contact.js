@@ -12,7 +12,7 @@ export default function Contact() {
       <div className="flex mt-[2rem] justify-center">
         <Button className="px-12 py-6 rounded-2xl">
           <Mail />
-          <Link className="ml-4" href="/login">Contact us</Link>
+          <Link className="ml-4" href="#">Contact us</Link>
         </Button>
       </div>
     </div>

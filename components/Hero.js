@@ -17,7 +17,7 @@ export default function Hero() {
         </h2>
         <div className="flex mt-[2rem] justify-center">
           <Button asChild className="p-6">
-            <Link href="/login">Book an Appointment</Link>
+            <Link href="#">Book an Appointment</Link>
           </Button>
         </div>
       </div>
